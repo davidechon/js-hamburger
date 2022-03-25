@@ -1,8 +1,8 @@
 // flowchart TD
 //    A[INIZIO] --> B[nascondi il menu principale <1000px]
 //    B --> C[mostra click l'hamburger  menu]
-//    C --> D[apri l'hamburgher menu]
-//    D --> E[chiudi l'hamburgher menu]
+//    C --> D[apri l'hamburger menu]
+//    D --> E[chiudi l'hamburger menu]
 //    E --> P[FINE]
 
 
